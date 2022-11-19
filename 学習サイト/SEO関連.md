@@ -14,3 +14,7 @@
 - [マナミナ](https://manamina.valuesccg.com/)
 - [ferret](https://ferret-plus.com/)
 - [Markezine](https://markezine.jp/)
+
+## ツール
+
+- [Semrush](https://semrush.jp/)
